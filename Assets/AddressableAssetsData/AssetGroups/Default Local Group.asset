@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1dfa0d36423d5ae4ea29332985dfe983
+  m_SerializeEntries:
+  - m_GUID: 6588f8a66040d594384f06f8bbd7cc21
+    m_Address: Assets/_GHeart/Art/KidPack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aa0fb9ba5caa7546a622ffeb75a9e51
+    m_Address: Assets/_GHeart/Art/BackgroundPack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ca92cde5f87f2a4883208d8a747993e
+    m_Address: Assets/_GHeart/Art/FlagsPack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5ea8cf93f256ba49a5abd220dc750b9
+    m_Address: Assets/_GHeart/Art/VanGhog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d92e56887bc94249ac91afe82f03283, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d72a2192f5eb7e142ac13c0b32d8b9aa, type: 2}
+    - {fileID: 11400000, guid: 36d27dfee811435498c1d558d974beef, type: 2}
